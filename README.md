@@ -51,6 +51,6 @@ I enjoy working across the entire product lifecycle — from **idea and UX** to 
 │                                                             │
 │  INTERESTS   Product · UI/UX · Architecture · AI            │
 │                                                             │
-│  MINDSET     Build → Ship → Learn → Iterate                │
+│  MINDSET     Build → Ship → Learn → Iterate                 │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
